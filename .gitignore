@@ -1,0 +1,6 @@
+
+.venv/
+__pycache__/
+*.pyc
+traffic_management.db
+uploads/
